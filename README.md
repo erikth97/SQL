@@ -1,2 +1,2 @@
 # SQL
-MySql, PostgreSQL
+Ejercicios de MySql, PostgreSQL
